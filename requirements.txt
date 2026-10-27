@@ -1,0 +1,7 @@
+torch
+transformers>=4.51,<5
+accelerate>=1.0
+pillow>=10
+requests>=2.31
+qwen-vl-utils>=0.0.8
+psutil>=5.9
